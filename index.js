@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/twitter', (req, res) => {
-  res.send('sujal3797 ')
+  res.send('sujal3797')
 })
 
 app.get('/login', (req, res) => {
